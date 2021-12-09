@@ -1,0 +1,7 @@
+name: PlayerSynchronizer
+version: '${project.version}'
+main: pro.freeserver.alphakun.plugin.playersynchronizer.PlayerSynchronizer
+api-version: 1.17
+authors: [ Alpha9n ]
+description: Supabaseとプレイヤーデータを同期します
+website: supabase.freeserver.pro

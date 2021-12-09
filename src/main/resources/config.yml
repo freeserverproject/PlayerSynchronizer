@@ -1,0 +1,9 @@
+### PlayerSynchronizer Configuration ###
+
+#Key
+keys:
+  service_key: 'your key here'
+
+#Location
+locations:
+  request_uri: 'your location here'
